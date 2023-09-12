@@ -1,0 +1,40 @@
+.cover {
+    height: 100vh;
+  }
+  
+  .row-margin {
+    margin: 4vh auto;
+  }
+  
+  body {
+    background: #fff;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(135deg, hsl(0, 5%, 79%), hsl(51, 28%, 91%));
+    /* Chrome 10-25, Safari 5.1-6 */
+   
+  }
+  
+  .header {
+    color: #080707 !important;
+  }
+  
+  h1 {
+    font-family: "Pacifico";
+  }
+  
+  .btn-default {
+    background-color: rgb(224, 206, 206) !important;
+    border-color: black !important;
+    color: #070202;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  .alert-success{
+    color: green;
+  }
+  .alert-danger{
+    color: red;
+  }
+  p{
+    
+  }
