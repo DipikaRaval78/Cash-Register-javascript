@@ -7,7 +7,7 @@
   }
   
   body {
-    background: #fff;
+    background: #d6d1f0 !important;
     /* fallback for old browsers */
     background: -webkit-linear-gradient(135deg, hsl(0, 5%, 79%), hsl(51, 28%, 91%));
     /* Chrome 10-25, Safari 5.1-6 */
